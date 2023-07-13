@@ -3,4 +3,4 @@
 
 • Utilized sqlite to select, add, and delete student records stored in local database.
 
-• Incorporated design patterns such as singleton and stregety patterns to follow OOP principles.
+• Incorporated design patterns such as adapter, singleton, stregety patterns to follow OOP principles.
